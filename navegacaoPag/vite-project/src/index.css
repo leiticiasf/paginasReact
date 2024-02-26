@@ -1,0 +1,9 @@
+body{
+    background-image: url(./assets/funde.jpg);
+    background-size: cover;
+    text-align: center;
+}
+
+button{
+    background-color: rgb(210, 210, 248);
+}
