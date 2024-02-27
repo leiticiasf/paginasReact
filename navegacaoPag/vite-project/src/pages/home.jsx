@@ -16,7 +16,7 @@ function home() {
       {/* Título da página inicial */}
       <h1>Página Inicial</h1>      
       {/* Botão para navegar para a página About ao ser clicado */}
-      <button onClick={handleClick}>Ir para Sobre</button>
+      <button onClick={handleClick}>Ir para Sobre</button> &nbsp;
       <button onClick={handleClick}>Ver Materias</button>
 
     </div>
